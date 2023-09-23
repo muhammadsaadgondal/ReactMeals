@@ -1,0 +1,33 @@
+.Cart {
+    width: 170px;
+    /* Adjust the width as needed */
+    height: 40px;
+    /* Adjust the height as needed */
+    background-color: #3498db;
+    /* Set your desired background color */
+    border-radius: 20px;
+    /* Adjust the border-radius to control the roundness of the corners */
+    text-align: center;
+    color: #fff;
+    /* Set the text color */
+    display: flex;
+    margin-left: 70%;
+}
+.yourcart{
+    margin-left: 30px;
+    padding-top: 6px;
+}
+
+.icon{
+    width: 30px;
+}
+.count {
+    
+    margin-top: 7px;
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: yellowgreen;
+}
